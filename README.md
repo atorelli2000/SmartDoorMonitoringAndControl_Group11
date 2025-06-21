@@ -17,12 +17,13 @@ This project is a smart system that lets you **lock/unlock a door**, **close it 
 ## 🧰 What You Need
 
 - Arduino Uno  
-- Raspberry Pi with Wi-Fi  
-- 2x Servo motors  
-- Magnetic reed switch  
-- Buzzer  
+- Raspberry Pi (4GB RAM) with Wi-Fi  
+- 2x Servo motors (Model SG90)  
+- Magnetic reed switch (Model KY-021) 
+- Active Buzzer (KY-012)  
 - USB drive for logs  
-- Jumper wires and power supply  
+- Jumper wires (Male-Male, Male-Female)
+- Power supply (5V)  
 
 ---
 
